@@ -2,3 +2,8 @@
 Details
 village
 pegadapally
+
+
+bodahn
+
+nizamabad
